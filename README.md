@@ -1,4 +1,4 @@
-    ~ Pigeon Projects ~
+   Pigeon Projects
     
 ![BackgroundEraser_20220211_154555173](https://user-images.githubusercontent.com/101137700/157766948-b9f756dc-5faf-4a2b-90ff-7e6bb73845ba.png)
 
