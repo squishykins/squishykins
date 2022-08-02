@@ -109,6 +109,10 @@
 
 <br/>  
 
+
+----
+
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=squishykins&&style=flat-square" align="center" />
 </div>  
@@ -124,6 +128,3 @@
                 />
             </a></div>
 <br />
-
-----
-
