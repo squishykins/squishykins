@@ -63,7 +63,7 @@
 
 
 
-### DevOps  
+### Learning 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
@@ -78,7 +78,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me
 <div align="center">
 <a href="https://github.com/squishykins" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -98,7 +98,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Currently Listening To   
 <!-- BLOG-POST-LIST:START -->  
 
 <!-- BLOG-POST-LIST:END -->  
