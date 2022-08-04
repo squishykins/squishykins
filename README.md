@@ -18,8 +18,6 @@
 - ⚡ Fun fact: I have a pet pigeon!  
   
 
-[![Actions Status](https://github.com/squishykins/squishykins/workflows/wakatime/badge.svg)](https://github.com/squishykins/squishykins/actions)
-
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/squishykins/squishykins/main/imgs/pigeon.png" align="center" height="" width="" />
