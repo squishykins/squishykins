@@ -113,6 +113,9 @@
 
 ----
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=squishykins&&style=flat-square" align="center" />
