@@ -10,7 +10,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: squishykins/squishykins/waka-readme-stats@a92e41d141fdc733b7456d8f6dfad5e17b7d1f73
+      - uses: squishykins/Waka_Readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
