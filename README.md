@@ -26,6 +26,20 @@
 
 <br/>  
 
+
+<!--START_SECTION:waka-->
+
+```text
+Python       2 hrs 23 mins   ████████████████▒░░░░░░░░   65.85 %
+YAML         1 hr 3 mins     ███████▒░░░░░░░░░░░░░░░░░   28.91 %
+Go           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+```
+
+<!--END_SECTION:waka-->
+
 <div align="center">
 <h2>Skills
 </div>
@@ -114,18 +128,6 @@
 
 ----
 
-<!--START_SECTION:waka-->
-
-```text
-Python       2 hrs 23 mins   ████████████████▒░░░░░░░░   65.85 %
-YAML         1 hr 3 mins     ███████▒░░░░░░░░░░░░░░░░░   28.91 %
-Go           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-```
-
-<!--END_SECTION:waka-->
 
 
 <div align="center">
