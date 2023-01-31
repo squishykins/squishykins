@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Arielle 'Scout' Colasanto, and I'm an aspiring data scientist</div>  
+### <div align="center">I'm Scout Colasanto, and I'm an aspiring data scientist</div>  
   
 
 - 🔭 I’m currently attending Rutgers Data Science bootcamp and will be graduating in September!  
